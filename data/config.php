@@ -1,7 +1,7 @@
 <?php // MCHostPanel Configuration
 
 // Server IP Address
-define('KT_LOCAL_IP','127.0.0.1');
+define('0.0.0.0','127.0.0.1');
 
 // Prefix for GNU-Screen names (prepended to username)
 define('KT_SCREEN_NAME_PREFIX','mchp-');
